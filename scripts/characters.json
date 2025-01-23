@@ -1,0 +1,798 @@
+[
+  {
+    "name": "Ross",
+    "lines": 2613
+  },
+  {
+    "name": "Rachel",
+    "lines": 2612
+  },
+  {
+    "name": "Chandler",
+    "lines": 2387
+  },
+  {
+    "name": "Joey",
+    "lines": 2348
+  },
+  {
+    "name": "Monica",
+    "lines": 2301
+  },
+  {
+    "name": "Phoebe",
+    "lines": 2227
+  },
+  {
+    "name": "Mike Hannigan",
+    "lines": 84
+  },
+  {
+    "name": "Janice",
+    "lines": 82
+  },
+  {
+    "name": "Richard Burke",
+    "lines": 63
+  },
+  {
+    "name": "Frank Buffay Jr.",
+    "lines": 54
+  },
+  {
+    "name": "Emily Waltham",
+    "lines": 54
+  },
+  {
+    "name": "Charlie Wheeler",
+    "lines": 54
+  },
+  {
+    "name": "Judy Geller",
+    "lines": 48
+  },
+  {
+    "name": "Jack Geller",
+    "lines": 46
+  },
+  {
+    "name": "David",
+    "lines": 39
+  },
+  {
+    "name": "Peter Becker",
+    "lines": 36
+  },
+  {
+    "name": "Carol",
+    "lines": 35
+  },
+  {
+    "name": "Amy Green",
+    "lines": 33
+  },
+  {
+    "name": "Sandra Green",
+    "lines": 31
+  },
+  {
+    "name": "Tag Jones",
+    "lines": 31
+  },
+  {
+    "name": "Joshua Burgin",
+    "lines": 28
+  },
+  {
+    "name": "Joanna",
+    "lines": 27
+  },
+  {
+    "name": "Erica",
+    "lines": 27
+  },
+  {
+    "name": "Gunther",
+    "lines": 25
+  },
+  {
+    "name": "Doug",
+    "lines": 25
+  },
+  {
+    "name": "Gavin Mitchell",
+    "lines": 24
+  },
+  {
+    "name": "Mona",
+    "lines": 23
+  },
+  {
+    "name": "Leonard Green",
+    "lines": 22
+  },
+  {
+    "name": "Janine Lecroix",
+    "lines": 22
+  },
+  {
+    "name": "Eric",
+    "lines": 22
+  },
+  {
+    "name": "Mr. Treeger",
+    "lines": 21
+  },
+  {
+    "name": "Eddie Menuek",
+    "lines": 21
+  },
+  {
+    "name": "Phoebe Abbott",
+    "lines": 21
+  },
+  {
+    "name": "Gary",
+    "lines": 21
+  },
+  {
+    "name": "Paul Stevens",
+    "lines": 21
+  },
+  {
+    "name": "Woman",
+    "lines": 18
+  },
+  {
+    "name": "Kathy",
+    "lines": 18
+  },
+  {
+    "name": "Jill Green",
+    "lines": 18
+  },
+  {
+    "name": "Susan Bunch",
+    "lines": 17
+  },
+  {
+    "name": "Alice Knight",
+    "lines": 17
+  },
+  {
+    "name": "Director",
+    "lines": 16
+  },
+  {
+    "name": "Kate Miller",
+    "lines": 16
+  },
+  {
+    "name": "Cecilia",
+    "lines": 16
+  },
+  {
+    "name": "Benjamin Hobart",
+    "lines": 16
+  },
+  {
+    "name": "Estelle Leonard",
+    "lines": 15
+  },
+  {
+    "name": "Elizabeth Stevens",
+    "lines": 15
+  },
+  {
+    "name": "The Interviewer",
+    "lines": 15
+  },
+  {
+    "name": "Julie",
+    "lines": 14
+  },
+  {
+    "name": "Susie Moss",
+    "lines": 14
+  },
+  {
+    "name": "The Director",
+    "lines": 14
+  },
+  {
+    "name": "Kim",
+    "lines": 14
+  },
+  {
+    "name": "Dr. Long",
+    "lines": 14
+  },
+  {
+    "name": "Nora Tyler Bing",
+    "lines": 13
+  },
+  {
+    "name": "Stephen Waltham",
+    "lines": 13
+  },
+  {
+    "name": "Dina",
+    "lines": 13
+  },
+  {
+    "name": "Sandy",
+    "lines": 12
+  },
+  {
+    "name": "Minister",
+    "lines": 12
+  },
+  {
+    "name": "Mr. Zelner",
+    "lines": 12
+  },
+  {
+    "name": "Barry Farber",
+    "lines": 11
+  },
+  {
+    "name": "Receptionist",
+    "lines": 11
+  },
+  {
+    "name": "Waiter",
+    "lines": 11
+  },
+  {
+    "name": "Dr. Drake Ramoray",
+    "lines": 11
+  },
+  {
+    "name": "Roy",
+    "lines": 11
+  },
+  {
+    "name": "Bobby Rush",
+    "lines": 10
+  },
+  {
+    "name": "Nurse",
+    "lines": 10
+  },
+  {
+    "name": "Danny",
+    "lines": 10
+  },
+  {
+    "name": "Melissa Warburton",
+    "lines": 10
+  },
+  {
+    "name": "Will Colbert",
+    "lines": 10
+  },
+  {
+    "name": "Guy",
+    "lines": 9
+  },
+  {
+    "name": "Mark Robinson",
+    "lines": 9
+  },
+  {
+    "name": "Parker",
+    "lines": 9
+  },
+  {
+    "name": "Amanda Buffamonteezi",
+    "lines": 9
+  },
+  {
+    "name": "Mindy Hunter",
+    "lines": 8
+  },
+  {
+    "name": "Fake Monica",
+    "lines": 8
+  },
+  {
+    "name": "Dr. Franzblau",
+    "lines": 8
+  },
+  {
+    "name": "Steve",
+    "lines": 8
+  },
+  {
+    "name": "Charity Guy",
+    "lines": 8
+  },
+  {
+    "name": "Roger",
+    "lines": 7
+  },
+  {
+    "name": "Joey Tribbiani Sr.",
+    "lines": 7
+  },
+  {
+    "name": "Ethan",
+    "lines": 7
+  },
+  {
+    "name": "Doctor",
+    "lines": 7
+  },
+  {
+    "name": "Erica Ford",
+    "lines": 7
+  },
+  {
+    "name": "Interviewer",
+    "lines": 7
+  },
+  {
+    "name": "Lauren",
+    "lines": 7
+  },
+  {
+    "name": "The Salesman",
+    "lines": 7
+  },
+  {
+    "name": "Dr. Harad",
+    "lines": 7
+  },
+  {
+    "name": "Dr. Ledbetter",
+    "lines": 7
+  },
+  {
+    "name": "Frank Buffay Sr.",
+    "lines": 7
+  },
+  {
+    "name": "Don",
+    "lines": 7
+  },
+  {
+    "name": "Lennart",
+    "lines": 7
+  },
+  {
+    "name": "Man",
+    "lines": 6
+  },
+  {
+    "name": "Mr. Ratstatter",
+    "lines": 6
+  },
+  {
+    "name": "Grandmother",
+    "lines": 6
+  },
+  {
+    "name": "Rob",
+    "lines": 6
+  },
+  {
+    "name": "Janitor",
+    "lines": 6
+  },
+  {
+    "name": "Sarah Tuttle",
+    "lines": 6
+  },
+  {
+    "name": "Guru Saj",
+    "lines": 6
+  },
+  {
+    "name": "Ursula Buffay",
+    "lines": 6
+  },
+  {
+    "name": "Larry",
+    "lines": 6
+  },
+  {
+    "name": "Cop",
+    "lines": 6
+  },
+  {
+    "name": "The Casting Director",
+    "lines": 6
+  },
+  {
+    "name": "Judge",
+    "lines": 6
+  },
+  {
+    "name": "Earl",
+    "lines": 6
+  },
+  {
+    "name": "Helena",
+    "lines": 6
+  },
+  {
+    "name": "The Cooking Teacher",
+    "lines": 6
+  },
+  {
+    "name": "Bitsy Hannigan",
+    "lines": 6
+  },
+  {
+    "name": "Donny Osmond",
+    "lines": 6
+  },
+  {
+    "name": "Teacher",
+    "lines": 5
+  },
+  {
+    "name": "Lydia",
+    "lines": 5
+  },
+  {
+    "name": "Little Bully",
+    "lines": 5
+  },
+  {
+    "name": "Malcom",
+    "lines": 5
+  },
+  {
+    "name": "Leslie",
+    "lines": 5
+  },
+  {
+    "name": "Mischa",
+    "lines": 5
+  },
+  {
+    "name": "Chip Matthews",
+    "lines": 5
+  },
+  {
+    "name": "Ticket Agent",
+    "lines": 5
+  },
+  {
+    "name": "Andrea Waltham",
+    "lines": 5
+  },
+  {
+    "name": "Tom",
+    "lines": 5
+  },
+  {
+    "name": "Russell",
+    "lines": 5
+  },
+  {
+    "name": "Michelle",
+    "lines": 5
+  },
+  {
+    "name": "Paul the Wine Guy",
+    "lines": 4
+  },
+  {
+    "name": "Terry",
+    "lines": 4
+  },
+  {
+    "name": "Ronni Rapalono",
+    "lines": 4
+  },
+  {
+    "name": "Mr. Douglas",
+    "lines": 4
+  },
+  {
+    "name": "Luisa Gianetti",
+    "lines": 4
+  },
+  {
+    "name": "Duncan",
+    "lines": 4
+  },
+  {
+    "name": "Jade",
+    "lines": 4
+  },
+  {
+    "name": "Michael",
+    "lines": 4
+  },
+  {
+    "name": "Russ",
+    "lines": 4
+  },
+  {
+    "name": "Jason",
+    "lines": 4
+  },
+  {
+    "name": "Billy",
+    "lines": 4
+  },
+  {
+    "name": "The Doctor",
+    "lines": 4
+  },
+  {
+    "name": "The Stripper",
+    "lines": 4
+  },
+  {
+    "name": "Steve Cera",
+    "lines": 4
+  },
+  {
+    "name": "Dana Keystone",
+    "lines": 4
+  },
+  {
+    "name": "Wayne",
+    "lines": 4
+  },
+  {
+    "name": "Megan Bailey",
+    "lines": 4
+  },
+  {
+    "name": "Cassie Geller",
+    "lines": 4
+  },
+  {
+    "name": "Tim",
+    "lines": 4
+  },
+  {
+    "name": "Trudie Styler",
+    "lines": 4
+  },
+  {
+    "name": "Cliff",
+    "lines": 4
+  },
+  {
+    "name": "Zack",
+    "lines": 4
+  },
+  {
+    "name": "Precious",
+    "lines": 4
+  },
+  {
+    "name": "Laura",
+    "lines": 4
+  },
+  {
+    "name": "Agency Guy",
+    "lines": 4
+  },
+  {
+    "name": "Shelley",
+    "lines": 3
+  },
+  {
+    "name": "Max",
+    "lines": 3
+  },
+  {
+    "name": "Ursula",
+    "lines": 3
+  },
+  {
+    "name": "Nina Bookbinder",
+    "lines": 3
+  },
+  {
+    "name": "Dr. Mitchell",
+    "lines": 3
+  },
+  {
+    "name": "Big Bully",
+    "lines": 3
+  },
+  {
+    "name": "Ryan",
+    "lines": 3
+  },
+  {
+    "name": "Julio (poet)",
+    "lines": 3
+  },
+  {
+    "name": "Robert Bobby",
+    "lines": 3
+  },
+  {
+    "name": "Ginger",
+    "lines": 3
+  },
+  {
+    "name": "Issac",
+    "lines": 3
+  },
+  {
+    "name": "Chloe",
+    "lines": 3
+  },
+  {
+    "name": "Sophie",
+    "lines": 3
+  },
+  {
+    "name": "Tommy",
+    "lines": 3
+  },
+  {
+    "name": "Bonnie",
+    "lines": 3
+  },
+  {
+    "name": "Timothy Burke",
+    "lines": 3
+  },
+  {
+    "name": "The Teacher",
+    "lines": 3
+  },
+  {
+    "name": "Katie",
+    "lines": 3
+  },
+  {
+    "name": "Dr. Miller",
+    "lines": 3
+  },
+  {
+    "name": "Hillary",
+    "lines": 3
+  },
+  {
+    "name": "Mr. Thompson",
+    "lines": 3
+  },
+  {
+    "name": "Erin",
+    "lines": 3
+  },
+  {
+    "name": "Kristen Leigh",
+    "lines": 3
+  },
+  {
+    "name": "Bob (Chandler's coworker)",
+    "lines": 3
+  },
+  {
+    "name": "Brenda",
+    "lines": 3
+  },
+  {
+    "name": "Hayley",
+    "lines": 3
+  },
+  {
+    "name": "Wendy",
+    "lines": 3
+  },
+  {
+    "name": "Assistant",
+    "lines": 3
+  },
+  {
+    "name": "Mackenzie",
+    "lines": 3
+  },
+  {
+    "name": "Angela Delveccio",
+    "lines": 2
+  },
+  {
+    "name": "#ALL#",
+    "lines": 2
+  },
+  {
+    "name": "Aurora",
+    "lines": 2
+  },
+  {
+    "name": "Jill Goodacre",
+    "lines": 2
+  },
+  {
+    "name": "Steve (drug addict)",
+    "lines": 2
+  },
+  {
+    "name": "Jean-Claude Van Damme",
+    "lines": 2
+  },
+  {
+    "name": "Margha",
+    "lines": 2
+  },
+  {
+    "name": "Vince",
+    "lines": 2
+  },
+  {
+    "name": "Cheryl",
+    "lines": 2
+  },
+  {
+    "name": "Allesandro",
+    "lines": 2
+  },
+  {
+    "name": "The Waiter",
+    "lines": 2
+  },
+  {
+    "name": "The Woman",
+    "lines": 2
+  },
+  {
+    "name": "Jim",
+    "lines": 2
+  },
+  {
+    "name": "Gene",
+    "lines": 2
+  },
+  {
+    "name": "Jamie",
+    "lines": 1
+  },
+  {
+    "name": "Mr. Heckles",
+    "lines": 1
+  },
+  {
+    "name": "Nurse Sizemore",
+    "lines": 1
+  },
+  {
+    "name": "Stephanie Schiffer",
+    "lines": 1
+  },
+  {
+    "name": "Girl",
+    "lines": 1
+  },
+  {
+    "name": "Caitlin",
+    "lines": 1
+  },
+  {
+    "name": "Joey's Hand Twin",
+    "lines": 1
+  },
+  {
+    "name": "The Dry Cleaner",
+    "lines": 1
+  },
+  {
+    "name": "Customer",
+    "lines": 1
+  },
+  {
+    "name": "Policeman",
+    "lines": 1
+  },
+  {
+    "name": "Molly",
+    "lines": 1
+  },
+  {
+    "name": "Sarah",
+    "lines": 1
+  }
+]
