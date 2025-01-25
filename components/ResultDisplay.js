@@ -117,20 +117,18 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product, is
                 <h1 data-name="game-title" className="logo text-3xl font-bold mb-8">
                     #{gameNumber}
                 </h1>
-                {!showFullResults && (
-                    <div 
-                        data-name="score-gif" 
-                        className="max-w-sm mx-auto mb-8"
-                    >
-                        <img
-                            src={getScoreImage()}
-                            alt="Score reaction"
-                            className="w-full rounded-lg shadow-lg"
-                        />
-                    </div>
-                )}
                 {showFullResults && (
                     <>
+                        <div 
+                            data-name="score-gif" 
+                            className="max-w-sm mx-auto mb-8"
+                        >
+                            <img
+                                src={getScoreImage()}
+                                alt="Score reaction"
+                                className="w-full rounded-lg shadow-lg"
+                            />
+                        </div>                    
                         <div className="stats-container grid grid-cols-4 gap-4 mb-12 bg-gray-300 p-4 rounded-lg">
                             <div className="stat-item">
                                 <div className="text-2xl font-bold">{stats.played}</div>
@@ -197,11 +195,11 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product, is
                                 </a>
                             </div>
                         )}
-                        {/* <img 
-                            src={`images/manana.jpg`}
-                            alt="What are you doing mañana"
+                        <img 
+                            src={`images/tomorrow.gif`}
+                            alt="I'll see you tomorrow"
                             className="mx-auto mb-4 rounded-lg shadow-lg"
-                        />                         */}
+                        />                        
                         <p className="text-gray-600 mb-8">Come back tomorrow for a new set of questions!</p>
                         <div className="mb-8">
                             <button

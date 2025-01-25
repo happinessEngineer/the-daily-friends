@@ -31,17 +31,23 @@ function AnswerButton({ character, isCorrect, isSelected, onClick, showResult })
             disabled={showResult}
         >
             <span className="flex-1 text-center">{buttonText}</span>
-            {character.toLowerCase() === 'jerry' && 
-                <img src="character-images/jerry.webp" alt="Jerry" className="h-full w-auto absolute right-2" />
+            {character.toLowerCase() === 'phoebe' && 
+                <img src="character-images/phoebe.png" alt="Jerry" className="h-full w-auto absolute right-2" />
             }
-            {character.toLowerCase() === 'george' && 
-                <img src="character-images/george.webp" alt="George" className="h-full w-auto absolute right-2" />
+            {character.toLowerCase() === 'chandler' && 
+                <img src="character-images/chandler.png" alt="George" className="h-full w-auto absolute right-2" />
             }
-            {character.toLowerCase() === 'elaine' && 
-                <img src="character-images/elaine.webp" alt="Elaine" className="h-full w-auto absolute right-2" />
+            {character.toLowerCase() === 'rachel' && 
+                <img src="character-images/rachel.png" alt="George" className="h-full w-auto absolute right-2" />
             }
-            {character.toLowerCase() === 'kramer' && 
-                <img src="character-images/kramer.webp" alt="Kramer" className="h-full w-auto absolute right-2" />
+            {character.toLowerCase() === 'ross' && 
+                <img src="character-images/ross.png" alt="George" className="h-full w-auto absolute right-2" />
+            }
+            {character.toLowerCase() === 'monica' && 
+                <img src="character-images/monica.png" alt="George" className="h-full w-auto absolute right-2" />
+            }
+            {character.toLowerCase() === 'joey' && 
+                <img src="character-images/joey.png" alt="George" className="h-full w-auto absolute right-2" />
             }
         </button>
     );
